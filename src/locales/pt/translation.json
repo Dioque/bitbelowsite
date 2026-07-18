@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "logoAlt": "Logo"
+  },
+  "about": {
+    "tag": "SOBRE A BITBELOW",
+    "title": "Criamos mundos através de",
+    "titleHighlight": " ideias, pixels e código.",
+    "description": "Somos um estúdio independente focado em transformar criatividade em experiências digitais. Acreditamos que todo projeto merece visibilidade, evolução e um espaço para mostrar seu potencial.",
+    "cards": {
+      "mission": {
+        "title": "Missão",
+        "description": "Criar jogos e projetos que impulsionem talentos, construindo experiências e portfólios dentro da indústria."
+      },
+      "values": {
+        "title": "Valores",
+        "description": "Criatividade, colaboração e aprendizado constante fazem parte de cada linha de código e cada pixel criado."
+      },
+      "vision": {
+        "title": "Visão",
+        "description": "Ser um espaço onde ideias ganham vida e novos criadores encontram oportunidades para crescer."
+      }
+    }
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Tem alguma dúvida ou deseja ingressar no universo BitBelow? Envie uma mensagem.",
+    "recruitment": "Para recrutamento:",
+    "questions": "Para dúvidas:",
+    "socialPrompt": "Siga nossas redes sociais e envie uma mensagem",
+    "socials": {
+      "discord": "Discord",
+      "twitter": "Twitter",
+      "instagram": "Instagram"
+    }
+  },
+  "footer": {
+    "text": "© 2026 BitBelow Game Studio | Criando mundos, um bit de cada vez."
+  },
+  "overlay": {
+    "title": "Isso é ser",
+    "brandName": "BitBelow",
+    "tools": {
+      "godot": "Godot",
+      "aseprite": "Aseprite",
+      "krita": "Krita",
+      "blender": "Blender",
+      "figma": "Figma",
+      "tiled": "Tiled",
+      "clickup": "ClickUp"
+    }
+  },
+  "team": {
+    "tag": "NOSSA EQUIPE",
+    "title": "As pessoas por trás da",
+    "titleHighlight": " BitBelow.",
+    "description": "Conheça os criadores responsáveis por transformar ideias em experiências digitais.",
+    "members": {
+      "owner": {
+        "name": "VT",
+        "role": "Owner | BitBelow"
+      },
+      "ceo": {
+        "name": "Dioque",
+        "role": "CEO | BitBelow"
+      },
+      "po": {
+        "name": "ySam",
+        "role": "Product Owner | BitBelow"
+      }
+    }
+  }
+}

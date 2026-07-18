@@ -1,0 +1,53 @@
+{
+  "navbar": {
+    "logoAlt": "Logo"
+  },
+  "about": {
+    "tag": "À PROPOS DE BITBELOW",
+    "title": "Nous créons des mondes à travers",
+    "titleHighlight": " des idées, des pixels et du code.",
+    "description": "Nous sommes un studio indépendant dédié à transformer la créativité en expériences numériques. Nous croyons que chaque projet mérite visibilité, évolution et un espace pour montrer son potentiel.",
+    "cards": {
+      "mission": {
+        "title": "Mission",
+        "description": "Créer des jeux et des projets qui valorisent les talents en construisant des expériences et des portfolios dans l'industrie."
+      },
+      "values": {
+        "title": "Valeurs",
+        "description": "La créativité, la collaboration et l'apprentissage constant font partie de chaque ligne de code et de chaque pixel créé."
+      },
+      "vision": {
+        "title": "Vision",
+        "description": "Être un espace où les idées prennent vie et où de nouveaux créateurs trouvent des opportunités pour grandir."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Vous avez une question ou souhaitez rejoindre l'univers BitBelow ? Envoyez un message.",
+    "recruitment": "Pour le recrutement :",
+    "questions": "Pour les questions :",
+    "socialPrompt": "Suivez nos réseaux sociaux et envoyez-nous un message",
+    "socials": {
+      "discord": "Discord",
+      "twitter": "Twitter",
+      "instagram": "Instagram"
+    }
+  },
+  "footer": {
+    "text": "© 2026 BitBelow Game Studio | Créer des mondes, un bit à la fois."
+  },
+  "overlay": {
+    "title": "C'est ça, être",
+    "brandName": "BitBelow",
+    "tools": {
+      "godot": "Godot",
+      "aseprite": "Aseprite",
+      "krita": "Krita",
+      "blender": "Blender",
+      "figma": "Figma",
+      "tiled": "Tiled",
+      "clickup": "ClickUp"
+    }
+  }
+}
